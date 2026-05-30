@@ -1,0 +1,65 @@
+DISCHARGE SUMMARY
+==================
+
+Patient Name: Maria R. Thompson
+Date of Birth: 07/22/1975
+MRN: MQ-2024-00283
+Admission Date: 10/05/2024
+Discharge Date: 10/09/2024
+Attending Physician: Dr. James Park, MD — Pulmonology
+Primary Diagnosis: Community-Acquired Pneumonia (CAP)
+
+REASON FOR ADMISSION
+----------------------
+Mrs. Thompson, a 49-year-old female, presented to the Emergency Department on 10/05/2024 with a 5-day history of productive cough with yellow-green sputum, fever (maximum 102.8°F), pleuritic chest pain on the right side, and progressive dyspnea. She was found to have right lower lobe consolidation on chest X-ray and was admitted for intravenous antibiotics and respiratory support.
+
+HOSPITAL COURSE
+-----------------
+
+Day 1 (10/05): Patient admitted to medical floor. Initial vital signs: T 102.2°F, HR 108, RR 24, BP 118/72, SpO2 91% on room air. Started on supplemental oxygen at 2L via nasal cannula. Blood cultures drawn x2. Sputum culture obtained. Started on empiric IV ceftriaxone 1g daily + IV azithromycin 500mg daily per CAP protocol. IV fluids (NS at 125 mL/hr) initiated for mild dehydration. CBC showed WBC 16.8 with left shift (85% neutrophils). CRP elevated at 142 mg/L. Procalcitonin 2.4 ng/mL.
+
+Day 2 (10/06): Persistent fever to 101.5°F. Oxygen requirement stable at 2L NC. SpO2 94% on supplemental O2. Chest X-ray showed no interval change. Blood cultures pending, no growth at 24 hours. Patient reports mild improvement in chest pain. Continued current antibiotic regimen. Incentive spirometry and ambulation encouraged.
+
+Day 3 (10/07): Temperature trending down to 99.8°F. WBC decreased to 12.4. CRP 98 mg/L (downtrending). Sputum culture grew Streptococcus pneumoniae sensitive to penicillin, ceftriaxone, and azithromycin. Blood cultures: no growth at 48 hours (finalized as negative). Oxygen weaned to 1L NC. Patient tolerating oral intake well. Transitioned to oral antibiotics: amoxicillin 1g TID + azithromycin 500mg daily.
+
+Day 4 (10/08): Afebrile for 24 hours. SpO2 96% on room air. WBC 9.8 (normalized). CRP 45 mg/L. Chest X-ray showed improving right lower lobe infiltrate. Patient ambulating independently on the floor without desaturation. Appetite improved. Discussed discharge planning.
+
+Day 5 (10/09): Patient clinically stable. Afebrile x48 hours. SpO2 97% on room air. Tolerating oral medications and diet. Discharged home in good condition.
+
+DISCHARGE DIAGNOSES
+---------------------
+1. Community-acquired pneumonia, right lower lobe — Streptococcus pneumoniae
+2. Acute hypoxemic respiratory failure, resolved
+3. Mild dehydration, resolved
+4. Incidental finding: mildly elevated fasting glucose (118 mg/dL) — recommend outpatient screening for prediabetes
+
+DISCHARGE MEDICATIONS
+-----------------------
+1. Amoxicillin 1000 mg PO three times daily — continue for 5 more days (total 7-day course from oral transition)
+2. Azithromycin 250 mg PO daily — continue for 3 more days (total 5-day course)
+3. Acetaminophen 650 mg PO every 6 hours as needed for fever or pain
+4. Guaifenesin 600 mg PO every 12 hours as needed for cough
+5. Resume all home medications (listed in chart)
+
+DISCHARGE INSTRUCTIONS
+------------------------
+1. Complete the full course of antibiotics as prescribed. Do not stop early even if feeling better.
+2. Rest and gradually increase activity as tolerated. Avoid strenuous exercise for 1-2 weeks.
+3. Stay well-hydrated — aim for 8-10 glasses of water daily.
+4. Use incentive spirometer 10 times every hour while awake for the next week.
+5. Monitor temperature twice daily. Call the office if fever returns (>100.4°F).
+6. Smoking status: Non-smoker. Counsel to maintain.
+
+FOLLOW-UP
+-----------
+1. Primary care physician: Dr. Emily Watson — follow up in 1 week (by 10/16/2024)
+2. Repeat chest X-ray in 6 weeks to confirm resolution of infiltrate
+3. Fasting glucose and HbA1c at follow-up visit for prediabetes screening
+4. Pneumococcal vaccine (PCV20 or PPSV23) — discuss at follow-up as patient has not received
+
+CONDITION AT DISCHARGE
+------------------------
+Good. Patient ambulating independently, afebrile, tolerating oral diet, SpO2 97% on room air. Patient verbalized understanding of discharge instructions and medication regimen.
+
+Dictated by: Dr. James Park, MD
+Date: 10/09/2024

@@ -1,0 +1,165 @@
+CLINICAL GUIDELINES: MANAGEMENT OF TYPE 2 DIABETES MELLITUS
+==============================================================
+
+Document Type: Clinical Practice Guideline
+Issuing Authority: National Institute for Clinical Excellence (Adapted)
+Last Updated: January 2024
+Version: 4.2
+
+1. INTRODUCTION
+----------------
+Type 2 Diabetes Mellitus (T2DM) is a chronic metabolic disorder characterized by hyperglycemia resulting from insulin resistance and progressive beta-cell dysfunction. It affects approximately 462 million individuals worldwide, representing 6.28% of the global population. This guideline provides evidence-based recommendations for diagnosis, management, and monitoring of T2DM in adult patients.
+
+2. DIAGNOSIS
+-------------
+
+2.1 Diagnostic Criteria
+Diagnosis of T2DM requires one or more of the following:
+- Fasting plasma glucose (FPG) ≥ 126 mg/dL (7.0 mmol/L) on two separate occasions
+- 2-hour plasma glucose ≥ 200 mg/dL (11.1 mmol/L) during an oral glucose tolerance test (OGTT) using 75g glucose load
+- HbA1c ≥ 6.5% (48 mmol/mol) confirmed on repeat testing
+- Random plasma glucose ≥ 200 mg/dL (11.1 mmol/L) in a patient with classic symptoms of hyperglycemia
+
+2.2 Prediabetes Classification
+- Impaired Fasting Glucose (IFG): FPG 100-125 mg/dL
+- Impaired Glucose Tolerance (IGT): 2-hour glucose 140-199 mg/dL
+- HbA1c 5.7-6.4%
+Patients with prediabetes should receive lifestyle intervention counseling and annual monitoring.
+
+3. PHARMACOLOGICAL MANAGEMENT
+-------------------------------
+
+3.1 First-Line Therapy
+Metformin remains the preferred initial pharmacological agent for T2DM:
+- Starting dose: 500 mg once or twice daily with meals
+- Titrate gradually to minimize GI side effects
+- Maximum dose: 2000-2550 mg/day in divided doses
+- Monitor renal function (eGFR) annually
+- Contraindicated if eGFR < 30 mL/min/1.73m²
+- Hold before iodinated contrast procedures
+
+3.2 Second-Line Therapy
+If HbA1c target is not achieved after 3 months of metformin monotherapy, consider adding:
+
+a) SGLT2 Inhibitors (empagliflozin, dapagliflozin, canagliflozin)
+   - Preferred in patients with established cardiovascular disease or heart failure
+   - Additional benefits: weight loss, blood pressure reduction
+   - Monitor for genital mycotic infections and diabetic ketoacidosis
+   - Avoid if eGFR < 20 mL/min/1.73m²
+
+b) GLP-1 Receptor Agonists (semaglutide, liraglutide, dulaglutide)
+   - Preferred in patients with established atherosclerotic CVD or high CV risk
+   - Additional benefits: significant weight loss
+   - Contraindicated in patients with personal/family history of medullary thyroid cancer or MEN2
+   - Common side effects: nausea, vomiting, diarrhea
+
+c) DPP-4 Inhibitors (sitagliptin, saxagliptin, linagliptin)
+   - Weight neutral
+   - Well-tolerated, fewer GI side effects
+   - Lower HbA1c reduction compared to GLP-1 RAs
+   - Dose adjustment needed for renal impairment (except linagliptin)
+
+d) Sulfonylureas (glimepiride, glipizide, glyburide)
+   - Effective and low cost
+   - Risk of hypoglycemia and weight gain
+   - Glyburide not recommended in elderly
+   - Monitor blood glucose closely during initiation
+
+e) Thiazolidinediones (pioglitazone)
+   - Improve insulin sensitivity
+   - Risk of fluid retention, heart failure exacerbation, fractures
+   - Contraindicated in NYHA Class III/IV heart failure
+
+3.3 Insulin Therapy
+Indications for insulin initiation:
+- Symptomatic hyperglycemia with HbA1c > 10% or glucose > 300 mg/dL
+- Failure to achieve glycemic targets on maximum oral/injectable therapy
+- Type 1 diabetes misclassified as type 2
+
+Basal insulin options:
+- Insulin glargine (Lantus, Basaglar, Toujeo): once daily, usually at bedtime
+- Insulin detemir (Levemir): once or twice daily
+- Insulin degludec (Tresiba): once daily, flexible timing
+
+Starting dose: 10 units or 0.1-0.2 units/kg/day
+Titrate by 2-4 units every 3-7 days targeting fasting glucose 80-130 mg/dL
+
+4. GLYCEMIC TARGETS
+---------------------
+- General adult population: HbA1c < 7.0%
+- Older adults (≥65 years) with few comorbidities: HbA1c < 7.5%
+- Older adults with multiple comorbidities or limited life expectancy: HbA1c < 8.0%
+- Pregnant patients: fasting glucose < 95 mg/dL, 1-hour postprandial < 140 mg/dL
+
+Self-monitoring of blood glucose (SMBG):
+- On insulin: test fasting and before meals, minimum 2-4 times daily
+- On oral agents only: individualized based on hypoglycemia risk
+- Continuous glucose monitoring (CGM) may be considered for insulin-treated patients
+
+5. CARDIOVASCULAR RISK MANAGEMENT
+------------------------------------
+T2DM patients are at increased risk for atherosclerotic cardiovascular disease (ASCVD).
+
+5.1 Blood Pressure Targets
+- Target: < 130/80 mmHg for most patients
+- First-line agents: ACE inhibitors or ARBs (especially with albuminuria)
+- May require combination therapy with calcium channel blockers or thiazide diuretics
+
+5.2 Lipid Management
+- High-intensity statin therapy for all patients aged 40-75 with diabetes
+- Target LDL < 100 mg/dL (< 70 mg/dL for established ASCVD)
+- Consider adding ezetimibe if LDL target not met on maximum statin
+- PCSK9 inhibitors for very high-risk patients not at goal
+
+5.3 Antiplatelet Therapy
+- Aspirin 75-162 mg/day for secondary prevention in patients with established ASCVD
+- Primary prevention: individualized risk-benefit assessment
+- Dual antiplatelet therapy post-ACS as per cardiology guidelines
+
+6. COMPLICATIONS SCREENING
+-----------------------------
+
+6.1 Diabetic Retinopathy
+- Dilated eye exam at diagnosis, then annually
+- More frequent if retinopathy detected
+- Refer to ophthalmology for proliferative retinopathy or macular edema
+
+6.2 Diabetic Nephropathy
+- Annual urine albumin-to-creatinine ratio (UACR) and serum creatinine/eGFR
+- Start ACE inhibitor or ARB if UACR > 30 mg/g
+- Consider finerenone for patients with CKD and T2DM on maximum RAAS blockade
+- Refer to nephrology if eGFR < 30 or rapidly declining
+
+6.3 Diabetic Neuropathy
+- Annual comprehensive foot exam including monofilament testing
+- Screen for symptoms: numbness, tingling, burning pain in feet
+- First-line treatment for painful neuropathy: duloxetine, pregabalin, or gabapentin
+- Patient education on daily foot inspection and proper footwear
+
+6.4 Diabetic Foot Care
+- Risk stratification at each visit
+- Multidisciplinary team approach for active foot ulcers
+- Offloading, wound care, vascular assessment, and infection management
+- Patient education on prevention strategies
+
+7. LIFESTYLE MODIFICATIONS
+-----------------------------
+- Medical nutrition therapy: individualized meal planning with registered dietitian
+- Physical activity: minimum 150 minutes/week of moderate-intensity aerobic exercise
+- Weight management: 5-10% weight loss improves glycemic control significantly
+- Smoking cessation: strongly recommended, offer pharmacotherapy and counseling
+- Alcohol: limit to ≤1 drink/day for women, ≤2 drinks/day for men
+- Diabetes self-management education and support (DSMES) at diagnosis, annually, and during transitions
+
+8. MONITORING SCHEDULE
+------------------------
+- HbA1c: every 3 months until at target, then every 6 months
+- Lipid panel: annually or 6 weeks after medication change
+- Renal function (eGFR, UACR): annually
+- Liver function: at baseline and periodically
+- Comprehensive metabolic panel: annually
+- Dilated eye exam: annually
+- Comprehensive foot exam: annually
+- Blood pressure: every visit
+- Weight and BMI: every visit
+- Depression screening: annually (PHQ-9)

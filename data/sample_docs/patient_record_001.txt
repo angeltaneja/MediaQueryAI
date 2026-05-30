@@ -1,0 +1,140 @@
+PATIENT MEDICAL RECORD
+=======================
+
+Patient Name: John A. Martinez
+Date of Birth: 03/15/1958
+MRN: MQ-2024-00147
+Date of Visit: 11/20/2024
+Provider: Dr. Sarah Chen, MD — Internal Medicine
+
+CHIEF COMPLAINT
+----------------
+Patient presents with persistent chest pain and shortness of breath over the past 3 days. Pain is described as a pressure-like sensation in the substernal area, radiating to the left arm. Symptoms worsen with exertion and improve with rest.
+
+HISTORY OF PRESENT ILLNESS
+----------------------------
+Mr. Martinez is a 66-year-old male with a known history of hypertension, type 2 diabetes mellitus, and hyperlipidemia. He reports that chest discomfort began approximately 72 hours ago while climbing stairs at home. The pain is rated 6/10 in severity, is pressure-like in quality, and radiates to his left arm and jaw. He denies associated nausea, vomiting, or diaphoresis. He reports mild dyspnea on exertion but denies orthopnea or paroxysmal nocturnal dyspnea. He has been compliant with his medications including metformin, lisinopril, and atorvastatin. He denies any recent illness, travel, or changes in medication.
+
+PAST MEDICAL HISTORY
+---------------------
+1. Hypertension — diagnosed 2010, controlled on lisinopril 20mg daily
+2. Type 2 Diabetes Mellitus — diagnosed 2012, managed with metformin 1000mg BID, last HbA1c 7.2%
+3. Hyperlipidemia — diagnosed 2011, on atorvastatin 40mg daily
+4. Osteoarthritis — bilateral knees, managed conservatively
+5. Appendectomy — 1985
+
+MEDICATIONS
+------------
+1. Lisinopril 20 mg PO daily
+2. Metformin 1000 mg PO BID
+3. Atorvastatin 40 mg PO at bedtime
+4. Aspirin 81 mg PO daily
+5. Acetaminophen 500 mg PO PRN for joint pain
+
+ALLERGIES
+----------
+- Penicillin — causes rash and hives
+- Sulfa drugs — causes GI upset
+
+FAMILY HISTORY
+---------------
+- Father: deceased at age 72 from myocardial infarction
+- Mother: alive, age 88, history of hypertension and atrial fibrillation
+- Brother: age 63, type 2 diabetes mellitus
+- No family history of cancer or stroke
+
+SOCIAL HISTORY
+---------------
+- Former smoker: 20 pack-year history, quit in 2015
+- Alcohol: occasional, 1-2 drinks per week
+- Occupation: retired school teacher
+- Exercise: walks 30 minutes, 3-4 times per week
+- Lives with spouse, independent in all ADLs
+
+REVIEW OF SYSTEMS
+------------------
+- Constitutional: Denies fever, chills, or weight loss
+- Cardiovascular: Chest pain and dyspnea as noted above. Denies palpitations, syncope, or edema
+- Respiratory: Mild dyspnea on exertion. Denies cough, wheezing, or hemoptysis
+- Gastrointestinal: Denies abdominal pain, nausea, vomiting, or changes in bowel habits
+- Musculoskeletal: Chronic bilateral knee pain, stable
+- Neurological: Denies headache, dizziness, or focal weakness
+- All other systems reviewed and negative
+
+PHYSICAL EXAMINATION
+---------------------
+Vital Signs:
+- Blood Pressure: 152/94 mmHg
+- Heart Rate: 88 bpm, regular
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- SpO2: 96% on room air
+- BMI: 28.3 kg/m²
+
+General: Alert, oriented, mildly anxious, no acute distress
+HEENT: Normocephalic, atraumatic. Pupils equal, round, reactive. Oropharynx clear.
+Neck: Supple, no JVD, no lymphadenopathy, no thyromegaly
+Cardiovascular: Regular rate and rhythm, normal S1 and S2. No murmurs, rubs, or gallops. No peripheral edema.
+Respiratory: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended. Normal bowel sounds. No hepatosplenomegaly.
+Extremities: No clubbing, cyanosis, or edema. Bilateral knee crepitus noted.
+Neurological: Cranial nerves II-XII intact. Strength 5/5 in all extremities. Normal gait.
+
+LABORATORY RESULTS
+-------------------
+- Troponin I: 0.03 ng/mL (normal < 0.04)
+- BNP: 85 pg/mL (normal < 100)
+- CBC: WBC 7.2, Hgb 14.1, Plt 245 — all within normal limits
+- BMP: Na 140, K 4.2, Cl 102, CO2 24, BUN 18, Cr 1.0, Glucose 142
+- HbA1c: 7.2%
+- Lipid Panel: Total cholesterol 198, LDL 118, HDL 42, Triglycerides 190
+- TSH: 2.4 mIU/L (normal)
+
+ECG: Normal sinus rhythm, rate 88. No ST changes. No Q waves. Normal axis.
+
+IMAGING
+--------
+Chest X-Ray (PA and Lateral):
+- Heart size normal, no cardiomegaly
+- Lungs clear bilaterally, no infiltrates or effusions
+- No pneumothorax
+- Mediastinal contours normal
+
+ASSESSMENT
+-----------
+1. Chest pain — Likely musculoskeletal vs. stable angina. Troponin negative, ECG without acute changes. Given risk factors (age, HTN, DM, hyperlipidemia, family history of MI, former smoker), cardiac etiology must be ruled out.
+2. Hypertension — suboptimally controlled today at 152/94 mmHg
+3. Type 2 Diabetes Mellitus — fair control, HbA1c 7.2%
+4. Hyperlipidemia — LDL 118, above target of <100 for high-risk patient
+
+PLAN
+-----
+1. Chest Pain Workup:
+   - Schedule exercise stress test within 1 week
+   - If positive or inconclusive, proceed to coronary CT angiography
+   - Continue aspirin 81 mg daily
+   - Prescribe sublingual nitroglycerin 0.4 mg PRN for chest pain
+   - Patient educated on when to call 911 vs. use nitroglycerin
+
+2. Hypertension:
+   - Increase lisinopril from 20 mg to 40 mg daily
+   - Home blood pressure monitoring twice daily
+   - Low-sodium diet counseling
+   - Recheck BP in 2 weeks
+
+3. Diabetes Management:
+   - Continue metformin 1000 mg BID
+   - Reinforce dietary modifications and exercise
+   - Recheck HbA1c in 3 months
+
+4. Hyperlipidemia:
+   - Increase atorvastatin from 40 mg to 80 mg daily
+   - Target LDL < 70 mg/dL given high cardiovascular risk
+   - Recheck lipid panel in 6 weeks
+
+5. Follow-up:
+   - Return in 2 weeks for BP recheck and stress test results
+   - Call immediately if chest pain worsens, occurs at rest, or is accompanied by shortness of breath, nausea, or diaphoresis
+
+Provider Signature: Dr. Sarah Chen, MD
+Date: 11/20/2024

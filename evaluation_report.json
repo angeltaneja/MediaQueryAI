@@ -1,0 +1,275 @@
+{
+  "total_questions": 18,
+  "keyword_accuracy": 0.839,
+  "source_accuracy": 1.0,
+  "section_accuracy": 0.722,
+  "overall_retrieval_accuracy": 0.864,
+  "top_k": 5,
+  "per_question_results": [
+    {
+      "question": "What medications is patient John Martinez currently taking?",
+      "keyword_score": 0.6,
+      "keywords_found": [
+        "lisinopril",
+        "metformin",
+        "atorvastatin"
+      ],
+      "keywords_missed": [
+        "aspirin",
+        "acetaminophen"
+      ],
+      "source_correct": true,
+      "section_correct": false,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.6986765265464783
+    },
+    {
+      "question": "What are the patient's allergies?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "penicillin",
+        "sulfa",
+        "rash",
+        "hives"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.3943101763725281
+    },
+    {
+      "question": "What was the patient's blood pressure reading?",
+      "keyword_score": 0.5,
+      "keywords_found": [
+        "152/94"
+      ],
+      "keywords_missed": [
+        "mmHg"
+      ],
+      "source_correct": true,
+      "section_correct": false,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.41543346643447876
+    },
+    {
+      "question": "What is the troponin level and is it normal?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "0.03",
+        "troponin",
+        "normal"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.5972687005996704
+    },
+    {
+      "question": "What is the assessment for the chest pain?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "musculoskeletal",
+        "angina",
+        "troponin negative",
+        "cardiac"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.7170268297195435
+    },
+    {
+      "question": "What is the plan for hypertension management?",
+      "keyword_score": 0.75,
+      "keywords_found": [
+        "lisinopril",
+        "40 mg",
+        "blood pressure"
+      ],
+      "keywords_missed": [
+        "low-sodium"
+      ],
+      "source_correct": true,
+      "section_correct": false,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.42263728380203247
+    },
+    {
+      "question": "What is the first-line therapy for type 2 diabetes?",
+      "keyword_score": 0.667,
+      "keywords_found": [
+        "metformin",
+        "titrate"
+      ],
+      "keywords_missed": [
+        "500 mg"
+      ],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.5648939609527588
+    },
+    {
+      "question": "What are the diagnostic criteria for type 2 diabetes?",
+      "keyword_score": 0.75,
+      "keywords_found": [
+        "fasting",
+        "126",
+        "6.5"
+      ],
+      "keywords_missed": [
+        "HbA1c"
+      ],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.6485939025878906
+    },
+    {
+      "question": "What are the glycemic targets for elderly patients?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "7.5",
+        "8.0",
+        "older adults",
+        "comorbidities"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.49555134773254395
+    },
+    {
+      "question": "What SGLT2 inhibitors are recommended as second-line therapy?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "empagliflozin",
+        "dapagliflozin",
+        "canagliflozin",
+        "cardiovascular"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": false,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.49436622858047485
+    },
+    {
+      "question": "What complications should be screened for in diabetic patients?",
+      "keyword_score": 0.0,
+      "keywords_found": [],
+      "keywords_missed": [
+        "retinopathy",
+        "nephropathy",
+        "neuropathy",
+        "foot"
+      ],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.4829733371734619
+    },
+    {
+      "question": "What was the reason for Maria Thompson's hospital admission?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "pneumonia",
+        "cough",
+        "fever",
+        "dyspnea"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.6006766557693481
+    },
+    {
+      "question": "What antibiotic was used to treat the pneumonia?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "ceftriaxone",
+        "azithromycin"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.46616458892822266
+    },
+    {
+      "question": "What organism was identified in the sputum culture?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "streptococcus",
+        "pneumoniae"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 2,
+      "top_relevance_score": 0.18034780025482178
+    },
+    {
+      "question": "What are the discharge medications for the pneumonia patient?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "amoxicillin",
+        "azithromycin",
+        "acetaminophen",
+        "guaifenesin"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.46838486194610596
+    },
+    {
+      "question": "What was the patient's oxygen saturation at discharge?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "97",
+        "room air"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": false,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.51819908618927
+    },
+    {
+      "question": "What follow-up is recommended after discharge?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "1 week",
+        "chest X-ray",
+        "6 weeks",
+        "pneumococcal"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.42885708808898926
+    },
+    {
+      "question": "What is the patient's family history regarding cardiac disease?",
+      "keyword_score": 1.0,
+      "keywords_found": [
+        "father",
+        "myocardial infarction",
+        "72"
+      ],
+      "keywords_missed": [],
+      "source_correct": true,
+      "section_correct": true,
+      "num_chunks_retrieved": 5,
+      "top_relevance_score": 0.6806358695030212
+    }
+  ]
+}
